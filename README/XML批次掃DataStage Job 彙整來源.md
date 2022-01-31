@@ -42,8 +42,8 @@ ENV : ![](Aspose.Words.2a3ca779-164d-4574-bbdf-8cc94578a5cc.003.png)
 
 ![](Aspose.Words.2a3ca779-164d-4574-bbdf-8cc94578a5cc.011.png)
 
-1. 將Export 出來之結果csv檔Import 進測試TD之**DP\_CXL\_SCRDB.DATASTAGE\_JOB\_SOURCE** 
+6. 將Export 出來之結果csv檔Import 進測試TD之**DP\_CXL\_SCRDB.DATASTAGE\_JOB\_SOURCE** 
 
 ![](Aspose.Words.2a3ca779-164d-4574-bbdf-8cc94578a5cc.012.png)
 
-6. 從本機取出檔案彙整使用
+7. 從本機取出檔案彙整使用
